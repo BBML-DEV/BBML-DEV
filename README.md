@@ -43,7 +43,7 @@
 
   <p align="center"> 
 
- ## profile visits:
+ ## Profile visits:
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/BBML-DEV/count.svg" />
  </p>
