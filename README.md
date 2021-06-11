@@ -41,14 +41,8 @@
 <a href="https://www.linkedin.com/in/paulo-vitor-12ba241b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 
-  <p align="center"> 
 
- ## Profile visits:
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/BBML-DEV/count.svg" />
- </p>
-
-</p>
+![Snake animation](https://github.com/BBML-DEV/BBML-DEV/blob/output/github-contribution-grid-snake.svg)
 
 
 
