@@ -1,8 +1,14 @@
-<h1 align="center" >Hello world ✌
-<img align="center" alt="GIT" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623155591015.png" width="300px" />
-</h1>
+<h1 align="center" style="color: red;">Hello world ✌</h1>
 
-<div>
+<div align="center">
+  
+![gif-git](https://user-images.githubusercontent.com/66692202/154873492-5005cd78-e212-42de-8646-8db84e8d0af6.gif)
+  
+</div>
+
+
+
+
   <p>My name is <strong>Paulo Vitor</strong>, I'm from Brazil 🇧🇷 I'm a computer science student.</p>
   <p>I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.</p>
   
@@ -10,10 +16,7 @@
   
   
   <h4>Conheça meu Site: http://www.mldev.epizy.com</h4> 
-  
-  <a href="https://github.com/BBML-DEV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BBML-DEV&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBML-DEV&layout=compact&langs_count=16&theme=default"/>
+
     
 
 ## Skills:
