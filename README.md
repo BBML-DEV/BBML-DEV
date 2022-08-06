@@ -17,6 +17,8 @@
   
   <p> No meu GitHub você irá encontrar projetos que demorei dias e outros minutos para desenvolver, mas todos com o mesmo peso no fim das contas que é <strong> APRENDER </strong></p>
   
+ 
+  
 
     
 
@@ -41,7 +43,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  
+  <h3>Conheça meu website</h3>
+  <p> www.pvmldev.epizy.com</p>
  
    
 </p>
