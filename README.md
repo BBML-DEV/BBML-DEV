@@ -15,7 +15,6 @@
   
   🌍 *"Corrida hoje, vitória amanhã"* 🧠 
   
-  <p><span>Conheça meu site:</span> www.pvmldev.epizy.com</p>
   
   <p> No meu GitHub você irá encontrar projetos que demorei dias e outros minutos para desenvolver, mas todos com o mesmo peso no fim das contas que é <strong> APRENDER </strong></p>
   
