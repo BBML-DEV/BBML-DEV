@@ -4,55 +4,43 @@
   
 ![gif-git](https://user-images.githubusercontent.com/66692202/155618628-485787a6-a78d-46f5-a27b-c6fe45c9d017.gif)
 
-  
 </div>
 
+Olá! Meu nome é Paulo Vitor, tenho 24 anos e estou trilhando meus primeiros passos no mundo do desenvolvimento. Sou apaixonado por problemas, não sei a resposta para todos, mas acredito que minha curiosidade e afinco por resolvê-los é o que me destaca no meio do desenvolvimento.
+
+Atualmente, estou cursando bacharelado em ciência da computação e tenho conhecimentos em algumas linguagens de programação. No entanto, foi no universo do Front-end que encontrei minha verdadeira paixão. Participei de bootcamps promovidos por empresas como Santander e Bradesco, o que me proporcionou aprimorar tanto minhas habilidades técnicas (soft skills) quanto habilidades mais técnicas (hard skills). 
+
+<br>
+
+🌍 *"Sua única limitação é aquela que você impõe em sua própria mente."* 🧠
+
+<br>
 
 
+### Tecnologias e ferramentas com as quais tenho experiência:
 
-  <p>My name is <strong>Paulo Vitor</strong>, I'm from Brazil 🇧🇷 I'm a computer science student.</p>
-  <p>I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.</p>
-  
-  🌍 *"Corrida hoje, vitória amanhã"* 🧠 
-  
-  
-  <p> No meu GitHub você irá encontrar projetos que demorei dias e outros minutos para desenvolver, mas todos com o mesmo peso no fim das contas que é <strong> APRENDER </strong></p>
-  
- 
-  
-
-    
-
-## Skills:
-<p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
- 
-   
+<p>
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 </p>
 
 
+
+
+
+
   
-  ## Professional contact:<br>
+  ### Contato Profissiona:<br>
 <a href="https://www.linkedin.com/in/paulo-vitor-12ba241b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 
-
-![Snake animation](https://github.com/BBML-DEV/BBML-DEV/blob/output/github-contribution-grid-snake.svg)
 
 
 
