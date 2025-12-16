@@ -6,9 +6,7 @@
 
 </div>
 
-Olá! Meu nome é Paulo Vitor, tenho 25 anos e estou trilhando meus primeiros passos no mundo do desenvolvimento. Sou apaixonado por problemas, não sei a resposta para todos, mas acredito que minha curiosidade e afinco por resolvê-los é o que me destaca no meio do desenvolvimento.
-
-Atualmente, estou cursando bacharelado em ciência da computação e tenho conhecimentos em algumas linguagens de programação. No entanto, foi no universo do Front-end que encontrei minha verdadeira paixão. Participei de bootcamps promovidos por empresas como Santander e Bradesco, o que me proporcionou aprimorar tanto minhas habilidades técnicas (soft skills) quanto habilidades mais técnicas (hard skills). 
+Olá! Meu nome é Paulo Vitor, tenho 26 anos e atualmente trabalho na área da programação como desenvolvedor full-stack junior, aprendendo e desenvolvendo minhas habilidades de soft e hard skill no mundo coorporativo! 
 
 <br>
 
